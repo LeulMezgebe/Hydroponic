@@ -1,0 +1,1 @@
+this project is a react web application that displays live data from sensors in a Hydroponic system. The application makes an API call to a mongo DB that stores all the data in real time. the UI is meant to be interactive and appealing for users. 
